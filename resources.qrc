@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/WhereAmI" >
+        <file>whereami.png</file>
+    </qresource>
+</RCC>
